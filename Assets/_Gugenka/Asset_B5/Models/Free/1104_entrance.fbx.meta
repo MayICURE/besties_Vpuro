@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 6e8ea3d58d07a7d4dae652758e0e55e2
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b21a61b0c25419f4b8b4f0aa2af0e0c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: electrical_sys1_mat
+    second: {fileID: 2100000, guid: 99cbd3ff7afb083419962892d9c733cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: electrical_sys2_mat
+    second: {fileID: 2100000, guid: f452637b0f6f06f41b92b03c532c1935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: electrical_sys3_mat
+    second: {fileID: 2100000, guid: 9fa5c1398e10b4e418b87cb9f53a8894, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ent_ceiling_mat
+    second: {fileID: 2100000, guid: d4f7fc5c1eef2c94cb121dfad4aae3a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ent_floor1_mat
+    second: {fileID: 2100000, guid: 7c57c9482cbea5245a7ed29eeab46a64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ent_floor2_mat
+    second: {fileID: 2100000, guid: f157ba488380a3c4885b4cab9ff1daa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ent_wall1_mat
+    second: {fileID: 2100000, guid: ddf7a80beef4c0f49b94e22a1ec99395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ent_wall2_mat
+    second: {fileID: 2100000, guid: 4aca68b157b068f4aabe4ba6f03ce94f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entranceProps1_mat
+    second: {fileID: 2100000, guid: 4ac497a039a4ca74b98d1026e1a7a5ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entranceProps2_mat
+    second: {fileID: 2100000, guid: a0a6c980c4d32a14aa0f9d43e72a8a08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gratings_mat
+    second: {fileID: 2100000, guid: 01c85957ea9e54d4eb6f68469fd8fd89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sp_ev_joint_mat
+    second: {fileID: 2100000, guid: 03dabaf927592c2499eecef6c1c5d12d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wiremesh_mat
+    second: {fileID: 2100000, guid: aea21aa241105bf42a16fb28703ef4f5, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["wall_lightcase_1.003","wall_lightcase_1.002","wall_lightcase_1.001","wall_lightcase_1","wall_panel1.001","wall_panel1","floor_connecta2.012","floor_connecta2.004","floor_connecta2.003","floor_connecta2.001","floor_connecta2","floor_connecta1.003","floor_connecta1.001","floor_connecta1","et_grating","kEV_100","kEV_60","et_kEV_thickpipe","100_valve.005","100_valve.004","100_valve.003","100_valve.002","100_valve.001","et_kEV_concwall_parts","et_kEV_concwall_low","et_kEV_concwall","SP_EV_panel","SP_EV_Joint","pipe_100_conec_B","pipe_100_conec_A","ele_board4_1","ele_board4","ele_board3","eeb_cable_2","eeb_cable_1","100x1000.019","100_valve.012","100_valve","60x1000.044","ele_wall_junction1","ele_board2","ele_board1","et_concframe_B","et_concframe_A","wallcable_mini2","wallcable_mesh","cableparts.004","cableparts.003","100x1000.010","100x1000.004","100_L.001","32x1000.095","32x1000.086","32x1000.081","32x1000.076","32_L.109","60x500.056","pipe_60_joint","60x1000.015","60x1000.010","60x1000.005","60x1000.001","60x500.002","pathway_C","pathway_A","Beams","et_cables_mesh.007","et_cablerack1.007","60_joint_ceilling.030","et_cables_mesh.006","et_cablerack1.006","60_joint_ceilling.027","et_cables_mesh.005","et_cablerack1.005","60_joint_ceilling.022","et_cables_mesh.004","et_cablerack1.004","60_joint_ceilling.018","et_cables_mesh.003","et_cablerack1.003","60_joint_ceilling.015","et_cables_mesh.002","et_cablerack1.002","60_joint_ceilling.009","et_cables_mesh.001","et_cablerack1.001","60_joint_ceilling.006","et_cables_mesh","et_cablerack1","60_joint_ceilling.003"],"padding":[118,118,118,118,256,256,256,256,256,256,256,256,256,256,48,12,12,12,173,173,173,173,173,17,21,11,159,45,191,151,230,37,18,95,132,37,173,173,37,256,97,36,34,40,256,47,256,256,32,37,47,48,45,45,45,75,39,124,49,44,52,53,81,5,10,13,96,60,43,96,60,52,96,60,52,96,60,51,96,60,51,96,60,51,96,60,51,96,60,47],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

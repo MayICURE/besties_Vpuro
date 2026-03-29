@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: c64bcd45ba3017d40b2b7c3558bde829
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: "\u30AD\u30C6\u30A3"
+  - first:
+      1: 100004
+    second: "\u30B7\u30CA\u30E2\u30F3.006"
+  - first:
+      1: 100006
+    second: "\u30D7\u30EA\u30F3"
+  - first:
+      1: 100008
+    second: "\u30DE\u30A4\u30E1\u30ED"
+  - first:
+      1: 100010
+    second: "\u30E1\u30EB"
+  - first:
+      1: 100012
+    second: "\u5186\u67F1.003"
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: "\u30AD\u30C6\u30A3"
+  - first:
+      4: 400004
+    second: "\u30B7\u30CA\u30E2\u30F3.006"
+  - first:
+      4: 400006
+    second: "\u30D7\u30EA\u30F3"
+  - first:
+      4: 400008
+    second: "\u30DE\u30A4\u30E1\u30ED"
+  - first:
+      4: 400010
+    second: "\u30E1\u30EB"
+  - first:
+      4: 400012
+    second: "\u5186\u67F1.003"
+  - first:
+      21: 2100000
+    second: kitty
+  - first:
+      21: 2100002
+    second: cinnamon.003
+  - first:
+      21: 2100004
+    second: purin
+  - first:
+      21: 2100006
+    second: MyMero
+  - first:
+      21: 2100008
+    second: Meru
+  - first:
+      21: 2100010
+    second: Gold
+  - first:
+      23: 2300000
+    second: "\u30AD\u30C6\u30A3"
+  - first:
+      23: 2300002
+    second: "\u30B7\u30CA\u30E2\u30F3.006"
+  - first:
+      23: 2300004
+    second: "\u30D7\u30EA\u30F3"
+  - first:
+      23: 2300006
+    second: "\u30DE\u30A4\u30E1\u30ED"
+  - first:
+      23: 2300008
+    second: "\u30E1\u30EB"
+  - first:
+      23: 2300010
+    second: "\u5186\u67F1.003"
+  - first:
+      33: 3300000
+    second: "\u30AD\u30C6\u30A3"
+  - first:
+      33: 3300002
+    second: "\u30B7\u30CA\u30E2\u30F3.006"
+  - first:
+      33: 3300004
+    second: "\u30D7\u30EA\u30F3"
+  - first:
+      33: 3300006
+    second: "\u30DE\u30A4\u30E1\u30ED"
+  - first:
+      33: 3300008
+    second: "\u30E1\u30EB"
+  - first:
+      33: 3300010
+    second: "\u5186\u67F1.003"
+  - first:
+      43: 4300000
+    second: "\u30AD\u30C6\u30A3"
+  - first:
+      43: 4300002
+    second: "\u30B7\u30CA\u30E2\u30F3.006"
+  - first:
+      43: 4300004
+    second: "\u30D7\u30EA\u30F3"
+  - first:
+      43: 4300006
+    second: "\u30DE\u30A4\u30E1\u30ED"
+  - first:
+      43: 4300008
+    second: "\u30E1\u30EB"
+  - first:
+      43: 4300010
+    second: "\u5186\u67F1.003"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: a25e1595f1f3f3b4795dfcdc318b9fd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meru
+    second: {fileID: 2100000, guid: b8eb1afadcd60b84083aa0f25ec5533c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MyMero
+    second: {fileID: 2100000, guid: a30f4dc22d92464439dca0e9e42e2fd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cinnamon.003
+    second: {fileID: 2100000, guid: f6fc3c493fdbb794981d365414e949cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kitty
+    second: {fileID: 2100000, guid: 3a5fbfef5eccd1d499bef8bb28b28d10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: purin
+    second: {fileID: 2100000, guid: 39d219fa8d294ce4b89adda129c50541, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - "#BAKERY{\"meshName\":[\"\u30B7\u30CA\u30E2\u30F3.006\",\"\u30D7\u30EA\u30F3\",\"\u30AD\u30C6\u30A3\",\"\u30DE\u30A4\u30E1\u30ED\",\"\u30E1\u30EB\"],\"padding\":[23,21,19,18,26],\"unwrapper\":[1,1,1,1,1]}"
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

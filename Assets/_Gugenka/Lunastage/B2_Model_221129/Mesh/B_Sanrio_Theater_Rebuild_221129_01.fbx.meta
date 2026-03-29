@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: ec387655df505734ab2e22c3671297a8
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_FS005_Moon
+    second: {fileID: 2100000, guid: 92e7802fe407dc045be31d4f58634111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_MoviePanel
+    second: {fileID: 2100000, guid: ab6848ea5fb469346a3ac427406c04a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SP_B2_Mushroom_AB
+    second: {fileID: 2100000, guid: f35d901891182b042bd2415353d9a09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sanrio_PuroLand_B2_Castle
+    second: {fileID: 2100000, guid: 47d57a520d03d7f42abcf403319a3f0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sanrio_PuroLand_B2_Wall
+    second: {fileID: 2100000, guid: fb1b5dd1ae538da41ace6041ad5e4384, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sanrio_PuroLand_B2_Wall_Rock
+    second: {fileID: 2100000, guid: d696b88b8a9eb604c866eccbce5c2a06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sanrio_Theater_Base_01
+    second: {fileID: 2100000, guid: 9fcbaf4782bbec144972090d16811f37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sanrio_Theater_Base_02
+    second: {fileID: 2100000, guid: 5d340905ab1435843b5e84fffeb25079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sanrio_Theater_Object
+    second: {fileID: 2100000, guid: 5c6958afe46754948bc25afce030d3bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sanrio_Theater_Plants
+    second: {fileID: 2100000, guid: 68bfd415febc1fb4e8fcca052dc7b39b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sanrio_Theater_Stage
+    second: {fileID: 2100000, guid: 82baca0ff63bd5b498adbd6bf0868b91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sanrio_puroland_B2_V3_Mt_SP_B2_ARC
+    second: {fileID: 2100000, guid: 0de7e9908c3c3ff4591f6369b0d90349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sanrio_puroland_B2_V3_Mt_SP_B2_Gramophone_Lamp
+    second: {fileID: 2100000, guid: 0e23ef35b98c67c44a2a099eb74f446c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d2_d2_Mt_Sanrio_PuroLand_B2_Floor
+    second: {fileID: 2100000, guid: 44847d8760a9b4448a3d057250a32fac, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["PuroB2_Floor","PuroB2_Wall","M_Sanrio_Theater_Stage","M_Sanrio_Theater_Base_02_Plants","PuroB2_Castle_OutSide","PuroB2_Wall_Rock","M_Sanrio_Theater_Object","M_Sanrio_Theater_Base_01","M_Sanrio_Theater_Base_02_Tree","M_Sanrio_B2_BG_Moon","M_Sanrio_Theater_Base_02"],"padding":[4,3,14,5,5,7,13,11,31,24,19],"unwrapper":[1,1,1,1,1,1,1,1,1,1,1]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

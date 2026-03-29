@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 342f8dd01181eb441943d80f57ab9011
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_2nd_F01
+    second: {fileID: 2100000, guid: 53c72514599426c48b70d9fbe56c357a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_2nd_F02
+    second: {fileID: 2100000, guid: 9de5bdd806ec24b469552f143cdd9b4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_2nd_Fences
+    second: {fileID: 2100000, guid: e47ae294e68c08b4798eb2787df1ae6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_3rd_Platform
+    second: {fileID: 2100000, guid: 90d9bef96985def46834c576743e794d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Bedrock
+    second: {fileID: 2100000, guid: cd1e68a12e535664dabc0f10f72b521a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Dome
+    second: {fileID: 2100000, guid: 87967f68f04c5e444bab3aff2bf1f23b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Ground
+    second: {fileID: 2100000, guid: c61f04418266d6f4894b577c571db867, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Mezzanine_01
+    second: {fileID: 2100000, guid: 90e30b494f696e44cbddaaf15aabf775, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Mezzanine_02
+    second: {fileID: 2100000, guid: 2203cde02f0eb2e4e956c2e5ef3b4ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Mezzanine_03
+    second: {fileID: 2100000, guid: bda0ef31cb6f9424f8410e9b27fd67cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Mezzanine_04
+    second: {fileID: 2100000, guid: 279bb4295b4149143b54254bc394c3bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Mezzanine_Entrance
+    second: {fileID: 2100000, guid: b54d7e97d791607458d5c52457988dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Mezzanine_Merge
+    second: {fileID: 2100000, guid: f1c2d137db61f1241880b24fa2471a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Mezzanine_Stairs
+    second: {fileID: 2100000, guid: 57959c8678782434fb07b713d0fe2b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Mushroom
+    second: {fileID: 2100000, guid: d0437ecf2b137194190a8f5f70cec074, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Tunnel_Entrance_01B
+    second: {fileID: 2100000, guid: e7900d87696b0ee41a14b9dac7569983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Tunnel_Entrance_02
+    second: {fileID: 2100000, guid: fa06c4f8ab458844d956bc487ddaa2a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Tunnel_Entrance_03
+    second: {fileID: 2100000, guid: fc62f0117fb066c4da25d15e41344d03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_SWT_Wall
+    second: {fileID: 2100000, guid: ce599bd92528fb54d9465eeb567b9732, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["M_SWT_Ent_Mushroom_02","M_SWT_Plant","M_SWT_2Floor_01","M_SWT_2Floor_02","M_SWT_Mezzanine_Stairs","M_SWT_Mezzanine_01","M_SWT_Ent_Ruins","M_SWT_Ent_TunnelEntrance","M_SWT_Ent_Tree","M_SWT_PillarStairs","M_SWT_Ent_Pillar","M_SWT_Platform","M_SWT_2Floor_03","M_SWT_Mezzanine_03","M_SWT_Ent_CircleStone","M_SWT_Mezzanine_221216","M_SWT_Wall_02","M_SWT_Dome","M_SWT_Pillars","M_SWT_Mezzanine_02","M_SWT_Ent_Ground","M_SWT_Ground","M_SWT_Ent_Mushroom_01","M_SWT_Wall_01","M_SWT_Fences","M_SWT_MezzanineEntrance"],"padding":[45,11,9,8,5,3,17,9,4,6,19,11,4,3,25,2,4,2,4,3,3,1,17,3,6,5],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

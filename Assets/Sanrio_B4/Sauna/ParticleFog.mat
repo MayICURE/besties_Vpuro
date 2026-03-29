@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ParticleFog
+  m_Shader: {fileID: 4800000, guid: 38b62695d8f16dd4a892db7064e117c0, type: 3}
+  m_ShaderKeywords: _USESOFTPARTICLE_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _1stNoiseTex:
+        m_Texture: {fileID: 11700000, guid: f4f17073582c2024e8a4a78e11d81857, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _2ndNoiseTex:
+        m_Texture: {fileID: 11700000, guid: 9e22b425e27096a4e80a1f1382886229, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisplacementNoiseTex:
+        m_Texture: {fileID: 11700000, guid: 9e22b425e27096a4e80a1f1382886229, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParticleTexture:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubNoiseTexture:
+        m_Texture: {fileID: 2800000, guid: 5a8ecaf1be00a6d4a8b4de3b5ad0e681, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopTexture0:
+        m_Texture: {fileID: 2800000, guid: 201c565dd9af1b94b86e6a21ff1eee77, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _1stNoiseStepMax: 0.8
+    - _1stNoiseStepMin: 0
+    - _2ndNoiseStepMax: 0.7
+    - _2ndNoiseStepMin: 0.25
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DisplacementNoiseNoiseStepMax: 0.75
+    - _DisplacementNoiseNoiseStepMin: 0.25
+    - _DisplacementScale: 0
+    - _DstBlend: 0
+    - _Float2: 7
+    - _FogDensity: 1.5
+    - _FogDistanceEnd: 10
+    - _FogDistanceFadeEndPos: 0.5
+    - _FogDistanceFadeStartPos: 2
+    - _FogDistanceFalloff: 3
+    - _FogDistanceStart: -20
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HeightFadeMax: 1.5
+    - _HeightFadeMin: 0.88
+    - _MainNoiseScale: 1.5
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalScale: 0
+    - _OcclusionStrength: 1
+    - _Opacity: 0.25
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SoftParticleIntensity: 0.7
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SubNoiseScale: 30
+    - _TransAmbient: 0.5
+    - _TransDirect: 1
+    - _TransNormalDistortion: 0.5
+    - _TransScattering: 21.8
+    - _TransShadow: 0.9
+    - _Translucency: 5
+    - _UVSec: 0
+    - _UnderColorBoost: 15
+    - _UnderColorPower: 2
+    - _UseHeightFade: 0
+    - _UseSoftParticle: 1
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _1stNoiseTexScroll: {r: 0.03, g: -0.015, b: 0, a: 0}
+    - _1stNoiseTexTiling: {r: 0.05, g: 0.05, b: 0.05, a: 0}
+    - _2ndNoiseTexScroll: {r: -0.01, g: 0.015, b: -0.01, a: 0}
+    - _2ndNoiseTexTiling: {r: 0.15, g: 0.15, b: 0.15, a: 0}
+    - _Color: {r: 0.6, g: 0.7333334, b: 1, a: 1}
+    - _Color1: {r: 0.8915094, g: 0.9407788, b: 0.990566, a: 0}
+    - _Color2: {r: 0.5, g: 0.5, b: 1, a: 0}
+    - _DisplacementNoiseTexScroll: {r: 0.005, g: -0.01, b: 0.005, a: 0}
+    - _DisplacementNoiseTexTiling: {r: 0.1, g: 0.1, b: 0.1, a: 0}
+    - _EmissionColor: {r: 0.5550974, g: 0.6227922, b: 0.695, a: 1}
+    - _MainColor: {r: 0.702, g: 0.85289013, b: 1, a: 0}
+    - _MainNoiseScrollSpeed: {r: 0.4, g: -0.25, b: 0.4, a: 0}
+    - _SubNoiseScrollSpeed: {r: -0.5, g: -2, b: -0.5, a: 0}

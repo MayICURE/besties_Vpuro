@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 563d06d7a7fb6d44986ec3d2594f981e
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b21a61b0c25419f4b8b4f0aa2af0e0c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: caves_mat
+    second: {fileID: 2100000, guid: c09958bdcd42a7840b20e019283a57ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conc_mat
+    second: {fileID: 2100000, guid: 6fcf73339e33f374ea3f9ff8383a5c76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: electrical_sys2_mat.001
+    second: {fileID: 2100000, guid: f452637b0f6f06f41b92b03c532c1935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: electrical_sys3_mat.001
+    second: {fileID: 2100000, guid: 9fa5c1398e10b4e418b87cb9f53a8894, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ent_wall1_mat
+    second: {fileID: 2100000, guid: ddf7a80beef4c0f49b94e22a1ec99395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ent_wall1_mat.001
+    second: {fileID: 2100000, guid: ddf7a80beef4c0f49b94e22a1ec99395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entranceProps1_mat.002
+    second: {fileID: 2100000, guid: 4ac497a039a4ca74b98d1026e1a7a5ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entranceProps2_mat.001
+    second: {fileID: 2100000, guid: a0a6c980c4d32a14aa0f9d43e72a8a08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steelframeA_mat
+    second: {fileID: 2100000, guid: 9450aafbcbc5efb4caf869672d8a8427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steelframeB_mat
+    second: {fileID: 2100000, guid: de92c5cd3302d0f4fb95672eef514bb6, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["gatestep","evconcwall","kEV_100.039","kEV_100.038","kEV_100.037","kEV_100.036","kEV_100.035","kEV_100.034","kEV_100.033","kEV_100.032","kEV_100.031","kEV_100.030","kEV_60.071","kEV_60.070","kEV_60.069","kEV_60.068","kEV_60.067","kEV_60.066","kEV_60.065","kEV_60.064","kEV_60.063","kEV_60.062","kEV_60.061","kEV_60.060","kEV_60.059","kEV_60.058","kEV_60.057","kEV_60.056","kEV_60.055","kEV_60.054","et_kEV_thickpipe.019","et_kEV_thickpipe.018","et_kEV_thickpipe.017","et_kEV_thickpipe.016","et_kEV_thickpipe.015","100_valve.022","100_valve.021","100_valve.020","100_valve.019","100_valve.018","et_kEV_concwall_parts.003","et_kEV_concwall_low.001","rock","base.001"],"padding":[11,7,88,88,88,88,88,88,88,88,88,88,115,115,115,115,115,115,115,115,115,115,115,115,115,115,115,115,115,115,62,62,62,62,62,256,256,256,256,256,17,21,13,4],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

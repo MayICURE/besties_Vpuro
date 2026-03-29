@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mt_TWT_Grass_01
+  m_Shader: {fileID: 4800000, guid: 020451c865397bd4498f3f54a8aa48c6, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHATEST_ON
+  - _USECOLORMODIFIER_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlbedoPlanerTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AnisoTangentMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ClearCoatMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ClearCoatSmoothnessMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlossPlanerTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 522d72ac7c9b21e45b6428e1f6281f5a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalPlanerTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Anisotropy: 0
+    - _BakeOCIntensity: 1
+    - _BakeOCPow: 1
+    - _BumpScale: 1
+    - _ClearCoatSmoothness: 0
+    - _CullMode: 0
+    - _Cutoff: 0.7
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Exposure: 0.99
+    - _ForceBoxProjection: 0
+    - _GSAAScreenSpaceVariance: 0.1
+    - _GSAAThreshold: 0.2
+    - _GTBlack: 1
+    - _GTContrast: 1.3
+    - _GTLinearLength: 0.4
+    - _GTLinearStart: 0.25
+    - _GTMaxBrightness: 1
+    - _GlossMapScale: 1
+    - _GlossRemapMax: 1
+    - _GlossRemapMin: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _HueShift: -0.079
+    - _LogMicrofacetDensity: 0.5
+    - _MaxAnisotropy: 0.5
+    - _MetaPassEmissiveBoost: 1
+    - _Metallic: 0.2
+    - _MicrofacetRelativeArea: 0.5
+    - _Mode: 1
+    - _NLevelDictrionary: 3
+    - _NormalPlanarScale: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Ref: 0
+    - _RoughnessDictrionary: 0.5
+    - _RoughnessX: 0.5
+    - _RoughnessY: 0.5
+    - _Saturation: 1.652
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _ToneContrast: 1.136
+    - _UVSec: 0
+    - _UseAnisotropy: 0
+    - _UseBakeOC: 0
+    - _UseClearCoat: 1
+    - _UseColorModifier: 1
+    - _UseGeometricSpecularAA: 0
+    - _UseGlint: 0
+    - _UsePlanarMappingAlbedo: 0
+    - _UsePlanarMappingGloss: 0
+    - _UsePlanarMappingNormal: 0
+    - _UseTangentMap: 0
+    - _UseToneMapping: 1
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _AlbedoPlanarColor: {r: 1, g: 1, b: 1, a: 1}
+    - _AlbedoPlanarUV: {r: 1, g: 1, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GlossPlanarUV: {r: 1, g: 1, b: 0, a: 0}
+    - _NormalPlanarUV: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []

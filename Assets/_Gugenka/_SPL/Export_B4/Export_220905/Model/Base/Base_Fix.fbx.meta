@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: e3cb0e9e2e8d3574d91b2a9df5280584
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B4_floor_Fix
+    second: {fileID: 2100000, guid: 3014086d72b4b3144bc40bce365d3d9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B4_floor_outside_Fix
+    second: {fileID: 2100000, guid: f8232627e6a6913428afad11dec2e8d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B4_wall_Fix
+    second: {fileID: 2100000, guid: aea76bfdd9a66a0458c96c7b6ddb9a56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_Atlus
+    second: {fileID: 2100000, guid: 36cb3fe754dded946854be1fc65f10f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Atlus
+    second: {fileID: 2100000, guid: 413ae0aca68ccd04d9551e44a65dc05f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor_Display
+    second: {fileID: 2100000, guid: 4d0ced5b71063d14d88dea1fd4679b18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mushroom_Atlus
+    second: {fileID: 2100000, guid: 45b57c8b1ea8f5f41a6b15dc03863046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piller_B_Fix
+    second: {fileID: 2100000, guid: f552981381b6caf4aa23426163d43b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plustic_Atlus
+    second: {fileID: 2100000, guid: 086789317b4bae14d91e2ae31844bc21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emission_stage_Fix
+    second: {fileID: 2100000, guid: a7c883dbd67fd5244a6e552908856707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_Fix
+    second: {fileID: 2100000, guid: a7ee0bc7c8aeb4647baf8888df138dea, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Circles_03","Torus_018","B4_Base_Mushroom_Atlus_TypeA","Torus_020","B4_Base_Mushroom_Atlus_TypeB","LightPiller_001__2_","Torus_029","Roof_Emission","Torus_019","LightPiller_001__1_","Speaker_Right","Speaker_Left","Torus_017","Torus_030","Piller_B_Fix","Circles_05","Torus_016","Piller_B_Fix__2_","LightPiller_001__5_","LightPiller_001__8_","LightPiller_001","Piller_B_Fix__4_","Circles_02","LightPiller_001__6_","Circles_01","Torus_015","LightPiller_001__3_","Mainstage_003_Fix","LightPiller_001__7_","LightPiller_001__4_","Piller_B_Fix__3_","Piller_B_Fix__5_","Circles_04","Mainstage_004","Piller_B_Fix__1_","B4_floor_Glasses","B4_Roof","B4_Wall"],"padding":[49,32,64,38,37,53,32,8,38,41,38,38,38,38,50,31,63,50,61,51,61,42,31,56,54,96,51,31,77,56,50,50,35,29,42,11,18,14],"unwrapper":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 10
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

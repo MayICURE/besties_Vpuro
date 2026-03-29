@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: ef3512f6d8ee9174dbb3df58f5192e2f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bar
+    100004: Disc.002
+    100006: Disc.003
+    100008: Disc.006
+    100010: LightPiller
+    100012: Monitor
+    100014: Piller_A
+    100016: Piller_B
+    100018: Sphere.011
+    100020: SubStage_Base
+    100022: SUnStage
+    100024: Torus
+    100026: Torus.001
+    100028: Wave
+    400000: //RootNode
+    400002: Bar
+    400004: Disc.002
+    400006: Disc.003
+    400008: Disc.006
+    400010: LightPiller
+    400012: Monitor
+    400014: Piller_A
+    400016: Piller_B
+    400018: Sphere.011
+    400020: SubStage_Base
+    400022: SUnStage
+    400024: Torus
+    400026: Torus.001
+    400028: Wave
+    2100000: Emission_Purple
+    2100002: Prastic_red
+    2100004: Silver
+    2100006: Emission
+    2100008: Base
+    2100010: Metal_Blue
+    2100012: Emission_Pink
+    2100014: Emission_Green
+    2100016: Emission_Yellow
+    2100018: "\u30DE\u30C6\u30EA\u30A2\u30EB"
+    2100020: Prastic_Blue
+    2100022: Emission_Blue
+    2100024: CH
+    2100026: Gold
+    2300000: Bar
+    2300002: Disc.002
+    2300004: Disc.003
+    2300006: Disc.006
+    2300008: LightPiller
+    2300010: Monitor
+    2300012: Piller_A
+    2300014: Piller_B
+    2300016: Sphere.011
+    2300018: SubStage_Base
+    2300020: SUnStage
+    2300022: Torus
+    2300024: Torus.001
+    2300026: Wave
+    3300000: Bar
+    3300002: Disc.002
+    3300004: Disc.003
+    3300006: Disc.006
+    3300008: LightPiller
+    3300010: Monitor
+    3300012: Piller_A
+    3300014: Piller_B
+    3300016: Sphere.011
+    3300018: SubStage_Base
+    3300020: SUnStage
+    3300022: Torus
+    3300024: Torus.001
+    3300026: Wave
+    4300000: SUnStage
+    4300002: Piller_A
+    4300004: Torus
+    4300006: Piller_B
+    4300008: Torus.001
+    4300010: SubStage_Base
+    4300012: LightPiller
+    4300014: Disc.002
+    4300016: Disc.003
+    4300018: Disc.006
+    4300020: Monitor
+    4300022: Wave
+    4300024: Bar
+    4300026: Sphere.011
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

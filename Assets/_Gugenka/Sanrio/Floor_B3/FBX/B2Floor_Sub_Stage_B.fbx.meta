@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: dd89a450c57557941b1d5ea127df5ef2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Disc.008
+    100004: Disc.009
+    100006: LightPiller.001
+    100008: Monitor.001
+    100010: Piller_A.001
+    100012: Piller_B.001
+    100014: Sphere.004
+    100016: SubStage_Base.001
+    100018: SUnStage.001
+    100020: Torus.010
+    100022: Torus.011
+    100024: Wave.001
+    400000: //RootNode
+    400002: Disc.008
+    400004: Disc.009
+    400006: LightPiller.001
+    400008: Monitor.001
+    400010: Piller_A.001
+    400012: Piller_B.001
+    400014: Sphere.004
+    400016: SubStage_Base.001
+    400018: SUnStage.001
+    400020: Torus.010
+    400022: Torus.011
+    400024: Wave.001
+    2100000: Emission_Purple
+    2100002: Prastic_red
+    2100004: Silver
+    2100006: Emission
+    2100008: Base
+    2100010: Metal_Blue
+    2100012: Emission_Pink
+    2100014: Emission_Green
+    2100016: Emission_Yellow
+    2100018: "\u30DE\u30C6\u30EA\u30A2\u30EB"
+    2100020: Prastic_Blue
+    2100022: Emission_Blue
+    2100024: CH
+    2100026: Metal_Green
+    2300000: Disc.008
+    2300002: Disc.009
+    2300004: LightPiller.001
+    2300006: Monitor.001
+    2300008: Piller_A.001
+    2300010: Piller_B.001
+    2300012: Sphere.004
+    2300014: SubStage_Base.001
+    2300016: SUnStage.001
+    2300018: Torus.010
+    2300020: Torus.011
+    2300022: Wave.001
+    3300000: Disc.008
+    3300002: Disc.009
+    3300004: LightPiller.001
+    3300006: Monitor.001
+    3300008: Piller_A.001
+    3300010: Piller_B.001
+    3300012: Sphere.004
+    3300014: SubStage_Base.001
+    3300016: SUnStage.001
+    3300018: Torus.010
+    3300020: Torus.011
+    3300022: Wave.001
+    4300000: SUnStage.001
+    4300002: Piller_A.001
+    4300004: Piller_B.001
+    4300006: Torus.010
+    4300008: Torus.011
+    4300010: SubStage_Base.001
+    4300012: LightPiller.001
+    4300014: Disc.008
+    4300016: Disc.009
+    4300018: Monitor.001
+    4300020: Wave.001
+    4300022: Sphere.004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: 04980c893dc6c84449c2f4fe69fb97df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CH
+    second: {fileID: 2100000, guid: 3dd0b6b9bc890e24fb08177bc6cb4aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission
+    second: {fileID: 2100000, guid: 412b2d3d61ebb11488c12734053c19df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_Blue
+    second: {fileID: 2100000, guid: 9f91bb640288317489c8ca51ade4e1ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_Green
+    second: {fileID: 2100000, guid: 30cf5101ff2d28349935a311e10e2007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_Pink
+    second: {fileID: 2100000, guid: 9947b3435aef96f479bad06a20f100f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_Purple
+    second: {fileID: 2100000, guid: 3c25e4ffbf63aec478a9749954f9c5e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_Yellow
+    second: {fileID: 2100000, guid: 8db9f87ef2c5d6f43947d45d43fb984a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Blue
+    second: {fileID: 2100000, guid: a3e9d2262cfb7374ab234bbcb821e4f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Green
+    second: {fileID: 2100000, guid: 76292272e20ed9243949570f117bcc96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prastic_Blue
+    second: {fileID: 2100000, guid: 62395fda0e01128479afa044a87b3d02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prastic_red
+    second: {fileID: 2100000, guid: 0135d5d7b94cf384c937011bbc483c26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver
+    second: {fileID: 2100000, guid: 2bd0371451aaf9447931e11d98228081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB"
+    second: {fileID: 2100000, guid: a24ea100f8ab17145af26d38a9cb5623, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

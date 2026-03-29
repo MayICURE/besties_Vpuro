@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: a7dd4a0d19c4c8043b3a445389948869
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bar.002
+    100004: Disc.011
+    100006: Disc.012
+    100008: LightPiller.002
+    100010: Monitor.002
+    100012: Piller_A.002
+    100014: Piller_B.002
+    100016: Sphere.014
+    100018: SubStage_Base.002
+    100020: SUnStage.002
+    100022: Torus.012
+    100024: Torus.013
+    100026: Wave.002
+    400000: //RootNode
+    400002: Bar.002
+    400004: Disc.011
+    400006: Disc.012
+    400008: LightPiller.002
+    400010: Monitor.002
+    400012: Piller_A.002
+    400014: Piller_B.002
+    400016: Sphere.014
+    400018: SubStage_Base.002
+    400020: SUnStage.002
+    400022: Torus.012
+    400024: Torus.013
+    400026: Wave.002
+    2100000: Emission_Purple
+    2100002: Prastic_red
+    2100004: Silver
+    2100006: Emission
+    2100008: Base
+    2100010: Metal_Blue
+    2100012: Emission_Pink
+    2100014: Emission_Green
+    2100016: Emission_Yellow
+    2100018: "\u30DE\u30C6\u30EA\u30A2\u30EB"
+    2100020: Prastic_Blue
+    2100022: Emission_Blue
+    2100024: CH
+    2100026: Gold
+    2300000: Bar.002
+    2300002: Disc.011
+    2300004: Disc.012
+    2300006: LightPiller.002
+    2300008: Monitor.002
+    2300010: Piller_A.002
+    2300012: Piller_B.002
+    2300014: Sphere.014
+    2300016: SubStage_Base.002
+    2300018: SUnStage.002
+    2300020: Torus.012
+    2300022: Torus.013
+    2300024: Wave.002
+    3300000: Bar.002
+    3300002: Disc.011
+    3300004: Disc.012
+    3300006: LightPiller.002
+    3300008: Monitor.002
+    3300010: Piller_A.002
+    3300012: Piller_B.002
+    3300014: Sphere.014
+    3300016: SubStage_Base.002
+    3300018: SUnStage.002
+    3300020: Torus.012
+    3300022: Torus.013
+    3300024: Wave.002
+    4300000: SUnStage.002
+    4300002: Piller_A.002
+    4300004: Piller_B.002
+    4300006: Torus.012
+    4300008: Torus.013
+    4300010: SubStage_Base.002
+    4300012: LightPiller.002
+    4300014: Disc.011
+    4300016: Disc.012
+    4300018: Monitor.002
+    4300020: Wave.002
+    4300022: Bar.002
+    4300024: Sphere.014
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: d856550b412bbec44ab8613a383bb199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CH
+    second: {fileID: 2100000, guid: 3e5a2bf108755f34793a8b75a0034305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission
+    second: {fileID: 2100000, guid: e77aea089a0a5b747bdb3c78326d645e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_Blue
+    second: {fileID: 2100000, guid: 89a5198c79f6d224892e7f97668a505e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_Green
+    second: {fileID: 2100000, guid: a1c8cc7e4738f144e922864d4fe04193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_Pink
+    second: {fileID: 2100000, guid: fbfbd5619a2aa2845bc252bee77ba05c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_Purple
+    second: {fileID: 2100000, guid: 1447f37052da598409e6edb3d99a522c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission_Yellow
+    second: {fileID: 2100000, guid: 5eb3f8f24a03491419aabcfdf02ef8c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 7833f55c05786c24688983706fa8551f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Blue
+    second: {fileID: 2100000, guid: 96ff21ead17b3e742861bf49fdb86e47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prastic_Blue
+    second: {fileID: 2100000, guid: cbaae6c82ab10fd4e890ac5215bb0bd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prastic_red
+    second: {fileID: 2100000, guid: b6100840bd94220429f3084c5220a6bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver
+    second: {fileID: 2100000, guid: 9b1a882305de6fc4f81dc26aae08436b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB"
+    second: {fileID: 2100000, guid: b0202a89448451246a213c8dc9de7ffd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

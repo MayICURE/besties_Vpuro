@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UnderLightMain
+  m_Shader: {fileID: 4800000, guid: 60e2025934775a540a819fc41ab4e8bb, type: 3}
+  m_ShaderKeywords: _EDGEMODIFIER_ON _USEEDGEMODIFIER_ON _USESCANLINE_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3010
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 2506dd437f8890744b8b8acc5736a097, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTexture:
+        m_Texture: {fileID: 2800000, guid: 145282fdcf24da34285ab07abee25561, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubNoise:
+        m_Texture: {fileID: 2800000, guid: 2506dd437f8890744b8b8acc5736a097, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AdjustAlpha: 2.5
+    - _Alpha: 0.05
+    - _BumpScale: 1
+    - _CullMode: 0
+    - _CullMode1: 0
+    - _Cutoff: 0.5
+    - _DepthFadeDistance: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EdegAlpha: 0.25
+    - _EdgeModifier: 1
+    - _FlickerPowerMin: 0.9
+    - _FlickerScale: 1
+    - _FlickerSeed: 0
+    - _FlickerTimeScale: 15
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GrainStrength: 50
+    - _Length: 0.01
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RimEdgeFade: 0.25
+    - _ScanPower: 1
+    - _ScanSpeed: 0.1
+    - _ScanTiling: 1
+    - _SeamFade: 0
+    - _SeamFadeWidth: 1
+    - _SeamFadeWidthMax: 0.51
+    - _SeamFadeWidthMin: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _StepMax: 1
+    - _StepMin: 0
+    - _SubNoiseIntensity: 1
+    - _SubNoiseStepMax: 1
+    - _SubNoiseStepMin: 0
+    - _UVSec: 0
+    - _UnderColorBoost: 3.5
+    - _UnderFade: 0
+    - _UpperPosLimitMax: 1
+    - _UpperPosLimitMin: 0
+    - _UseDistanceFade: 0
+    - _UseEdgeModifier: 1
+    - _UseFlicker: 0
+    - _UseGrain: 0
+    - _UseScaleOffset: 0
+    - _UseScanline: 0
+    - _Width: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _Color: {r: 0.6117647, g: 1.427451, b: 2.9960785, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _NoiseScroll: {r: 1, g: 0, b: 0, a: 0}
+    - _NoiseTexTilingandScroll: {r: 15, g: 0.001, b: 0.1, a: 0}
+    - _NoiseTiling: {r: 250, g: 1, b: 0, a: 0}
+    - _SubNoiseTilingandScroll: {r: 3, g: 0.8, b: -0.1, a: 0}
