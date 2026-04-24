@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 8f9e990483cc16546bf5507059702636
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColliderMat
+    second: {fileID: 2100000, guid: c9d875c43ae15024aa6859d029bd8fcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat0
+    second: {fileID: 2100000, guid: 64ade01a32235234eb3577bec2d1e1f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat0.001
+    second: {fileID: 2100000, guid: 64ade01a32235234eb3577bec2d1e1f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat1
+    second: {fileID: 2100000, guid: 2674d062e0eebf744932e1b94336ff60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat1.003
+    second: {fileID: 2100000, guid: 2674d062e0eebf744932e1b94336ff60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat2
+    second: {fileID: 2100000, guid: 2fe1989df442bea40a0e00deaa74a0ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat2.002
+    second: {fileID: 2100000, guid: 2fe1989df442bea40a0e00deaa74a0ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat5
+    second: {fileID: 2100000, guid: 810692932ce9eec45953c75c7efe0334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat5.001
+    second: {fileID: 2100000, guid: 810692932ce9eec45953c75c7efe0334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB.001"
+    second: {fileID: 2100000, guid: bd63d992a61fe9c47839370f4363ef12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB.002"
+    second: {fileID: 2100000, guid: d2bafddea28837944a3c5b8543ada027, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - "#BAKERY{\"meshName\":[\"banana\",\"banana.001\",\"banana.002\",\"banana.003\",\"base.001\",\"cupice\",\"FieldBase\",\"heart
+      candy_4\",\"heart candy_4.001\",\"heart candy_4.004\",\"heart candy_4.005\",\"heart
+      candy_4.006\",\"heart candy_4.007\",\"heart candy_4.009\",\"spoon.001\",\"star\",\"star.001\",\"star.002\",\"star.003\",\"star.004\",\"star.005\",\"star.006\",\"star.007\",\"star.008\",\"star.009\",\"star.010\",\"star.011\",\"star.012\",\"toketa
+      ice\",\"\u30DE\u30AB\u30ED\u30F3\",\"\u30DE\u30AB\u30ED\u30F3.001\",\"\u30DE\u30AB\u30ED\u30F3.002\",\"\u30DE\u30AB\u30ED\u30F3.003\",\"\u30DE\u30AB\u30ED\u30F3.004\",\"\u30DE\u30AB\u30ED\u30F3.005\",\"\u30EF\u30C3\u30D5\u30EB\",\"spoon\",\"jump.001\",\"ice02.003\",\"heart
+      candy_4.010\",\"heart candy_4.011\",\"heart candy_4.012\",\"heart candy_4.013\",\"heart
+      candy_4.014\",\"heart candy_4.015\",\"heart candy_4.016\",\"heart candy_4.017\",\"ice\",\"ice.001\",\"ice.002\",\"ice.003\",\"ice.004\",\"ice.005\",\"ice.006\",\"ice.007\",\"ice.008\",\"ice.009\",\"ice.010\",\"ice.011\",\"ice.012\",\"ice.013\",\"ice.014\",\"ice.015\",\"ice02\",\"ice02.001\",\"ice02.002\",\"jump\",\"heart
+      candy_4.008\"],\"padding\":[41,41,41,41,10,22,8,120,74,74,74,74,65,120,55,51,51,79,58,96,106,107,96,107,58,106,79,96,19,62,56,56,56,56,56,11,55,37,76,120,65,120,65,120,65,120,120,48,48,90,85,67,90,113,113,113,113,90,48,67,85,90,48,76,76,76,66,65],\"unwrapper\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}"
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
