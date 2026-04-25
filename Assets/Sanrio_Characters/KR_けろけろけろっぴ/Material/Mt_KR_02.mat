@@ -919,14 +919,14 @@ Material:
     - _UseGlitter: 0
     - _UseMain2ndTex: 0
     - _UseMain3rdTex: 0
-    - _UseMatCap: 1
+    - _UseMatCap: 0
     - _UseMatCap2nd: 0
     - _UseOutline: 0
     - _UsePOM: 0
     - _UseParallax: 0
     - _UseReflection: 0
     - _UseRim: 0
-    - _UseRimShade: 1
+    - _UseRimShade: 0
     - _UseShadow: 1
     - _Use_1stAs2nd: 0
     - _Use_BaseAs1st: 0
