@@ -529,8 +529,8 @@ Material:
     - _RimMainStrength: 0
     - _RimNormalStrength: 1
     - _RimShadeBlur: 1
-    - _RimShadeBorder: 0.418
-    - _RimShadeFresnelPower: 8.2
+    - _RimShadeBorder: 0.307
+    - _RimShadeFresnelPower: 8.5
     - _RimShadeNormalStrength: 1
     - _RimShadowMask: 0.5
     - _RimVRParallaxStrength: 1
@@ -610,7 +610,7 @@ Material:
     - _UseBumpMap: 0
     - _UseClippingCanceller: 0
     - _UseDither: 0
-    - _UseEmission: 1
+    - _UseEmission: 0
     - _UseEmission2nd: 0
     - _UseGlitter: 0
     - _UseMain2ndTex: 0

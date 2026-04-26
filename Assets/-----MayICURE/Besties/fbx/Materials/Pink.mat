@@ -16,7 +16,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3001
+  m_CustomRenderQueue: 2003
   stringTagMap: {}
   disabledShaderPasses: []
   m_LockedProperties: 
@@ -518,8 +518,8 @@ Material:
     - _ReflectionCubeEnableLighting: 1
     - _ReflectionCubeOverride: 0
     - _ReflectionNormalStrength: 1
-    - _RefractionFresnelPower: 0.48
-    - _RefractionStrength: 0.64
+    - _RefractionFresnelPower: 0.23
+    - _RefractionStrength: -0.86
     - _RimApplyTransparency: 1
     - _RimBackfaceMask: 1
     - _RimBlendMode: 1
@@ -652,8 +652,8 @@ Material:
     - _AudioLinkVertexUVParams: {r: 0.25, g: 0, b: 0, a: 0.125}
     - _BackfaceColor: {r: 0, g: 0, b: 0, a: 0}
     - _BacklightColor: {r: 0.85, g: 0.8, b: 0.7, a: 1}
-    - _BaseColor: {r: 1.7207952, g: 0.47890052, b: 1.5561568, a: 1}
-    - _Color: {r: 1.7207952, g: 0.47890052, b: 1.5561568, a: 1}
+    - _BaseColor: {r: 1.3654339, g: 0.90118635, b: 1.307403, a: 1}
+    - _Color: {r: 1.3654339, g: 0.90118635, b: 1.307403, a: 1}
     - _Color2nd: {r: 1, g: 1, b: 1, a: 1}
     - _Color3rd: {r: 1, g: 1, b: 1, a: 1}
     - _DissolveColor: {r: 1, g: 1, b: 1, a: 1}

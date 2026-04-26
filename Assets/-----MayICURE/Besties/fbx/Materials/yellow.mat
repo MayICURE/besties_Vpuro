@@ -518,10 +518,10 @@ Material:
     - _RimBackfaceMask: 1
     - _RimBlendMode: 1
     - _RimBlur: 0.65
-    - _RimBorder: 0.5
+    - _RimBorder: 0.111
     - _RimDirRange: 0
     - _RimDirStrength: 0
-    - _RimEnableLighting: 1
+    - _RimEnableLighting: 0
     - _RimFresnelPower: 3.5
     - _RimIndirBlur: 0.1
     - _RimIndirBorder: 0.5
@@ -610,7 +610,7 @@ Material:
     - _UseBumpMap: 0
     - _UseClippingCanceller: 0
     - _UseDither: 0
-    - _UseEmission: 1
+    - _UseEmission: 0
     - _UseEmission2nd: 0
     - _UseGlitter: 0
     - _UseMain2ndTex: 0
@@ -621,7 +621,7 @@ Material:
     - _UsePOM: 0
     - _UseParallax: 0
     - _UseReflection: 0
-    - _UseRim: 0
+    - _UseRim: 1
     - _UseRimShade: 1
     - _UseShadow: 1
     - _VertexLightStrength: 0
