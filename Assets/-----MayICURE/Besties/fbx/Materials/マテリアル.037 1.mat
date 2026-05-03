@@ -662,7 +662,7 @@ Material:
     - _Emission2ndColor: {r: 1, g: 1, b: 1, a: 1}
     - _Emission2ndMap_ScrollRotate: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionBlendMask_ScrollRotate: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionBlink: {r: 1, g: 1, b: 1.5707964, a: 0}
+    - _EmissionBlink: {r: 1, g: 1, b: 3.1415927, a: 0}
     - _EmissionColor: {r: 2.270603, g: 2.0977006, b: 0.0051659546, a: 1.3}
     - _EmissionMap_ScrollRotate: {r: 0, g: 0, b: 0, a: 0}
     - _GlitterAtras: {r: 1, g: 1, b: 0, a: 0}

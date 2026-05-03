@@ -355,7 +355,7 @@ Material:
     - _EnvRimBorder: 3
     - _FlipNormal: 0
     - _GSAAStrength: 0
-    - _GemChromaticAberration: 0.139
+    - _GemChromaticAberration: 0.168
     - _GemEnvContrast: 2
     - _GemParticleLoop: 8
     - _GemVRParallaxStrength: 1
@@ -512,14 +512,14 @@ Material:
     - _OutlineZWrite: 1
     - _Parallax: 0.02
     - _ParallaxOffset: 0.5
-    - _Reflectance: 0.04
+    - _Reflectance: 0.245
     - _ReflectionApplyTransparency: 1
     - _ReflectionBlendMode: 1
     - _ReflectionCubeEnableLighting: 1
     - _ReflectionCubeOverride: 0
     - _ReflectionNormalStrength: 1
-    - _RefractionFresnelPower: 0.23
-    - _RefractionStrength: -0.86
+    - _RefractionFresnelPower: 0.19
+    - _RefractionStrength: -0.92
     - _RimApplyTransparency: 1
     - _RimBackfaceMask: 1
     - _RimBlendMode: 1
@@ -652,8 +652,8 @@ Material:
     - _AudioLinkVertexUVParams: {r: 0.25, g: 0, b: 0, a: 0.125}
     - _BackfaceColor: {r: 0, g: 0, b: 0, a: 0}
     - _BacklightColor: {r: 0.85, g: 0.8, b: 0.7, a: 1}
-    - _BaseColor: {r: 1.3654339, g: 0.90118635, b: 1.307403, a: 1}
-    - _Color: {r: 1.3654339, g: 0.90118635, b: 1.307403, a: 1}
+    - _BaseColor: {r: 3.5186522, g: 2.473015, b: 3.3879476, a: 1}
+    - _Color: {r: 3.5186522, g: 2.473015, b: 3.3879476, a: 1}
     - _Color2nd: {r: 1, g: 1, b: 1, a: 1}
     - _Color3rd: {r: 1, g: 1, b: 1, a: 1}
     - _DissolveColor: {r: 1, g: 1, b: 1, a: 1}
@@ -669,9 +669,9 @@ Material:
     - _Emission2ndMap_ScrollRotate: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionBlendMask_ScrollRotate: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionBlink: {r: 0, g: 0, b: 3.141593, a: 0}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0.48900002, g: 0.27909908, b: 0.27909908, a: 1}
     - _EmissionMap_ScrollRotate: {r: 0, g: 0, b: 0, a: 0}
-    - _GemEnvColor: {r: 1.319508, g: 0.46680716, b: 0.46680704, a: 1}
+    - _GemEnvColor: {r: 1.9766746, g: 0.6992952, b: 0.69929516, a: 1}
     - _GemParticleColor: {r: 5.3403134, g: 0, b: 0, a: 1}
     - _GlitterAtras: {r: 1, g: 1, b: 0, a: 0}
     - _GlitterColor: {r: 1, g: 1, b: 1, a: 1}

@@ -646,8 +646,8 @@ Material:
     - _AudioLinkVertexUVParams: {r: 0.25, g: 0, b: 0, a: 0.125}
     - _BackfaceColor: {r: 0, g: 0, b: 0, a: 0}
     - _BacklightColor: {r: 0.85, g: 0.8, b: 0.7, a: 1}
-    - _BaseColor: {r: 0.70195824, g: 0.85098076, b: 0.9176472, a: 1}
-    - _Color: {r: 0.70195824, g: 0.85098076, b: 0.9176472, a: 1}
+    - _BaseColor: {r: 0.3033108, g: 0.7194795, b: 0.9056604, a: 1}
+    - _Color: {r: 0.3033108, g: 0.7194795, b: 0.9056604, a: 1}
     - _Color2nd: {r: 1, g: 1, b: 1, a: 1}
     - _Color3rd: {r: 1, g: 1, b: 1, a: 1}
     - _DissolveColor: {r: 1, g: 1, b: 1, a: 1}
@@ -663,7 +663,7 @@ Material:
     - _Emission2ndMap_ScrollRotate: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionBlendMask_ScrollRotate: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionBlink: {r: 0, g: 0, b: 3.141593, a: 0}
-    - _EmissionColor: {r: 0.7019608, g: 0.8509804, b: 0.91764706, a: 1}
+    - _EmissionColor: {r: 0.43867922, g: 0.8265008, b: 1, a: 1}
     - _EmissionMap_ScrollRotate: {r: 0, g: 0, b: 0, a: 0}
     - _GlitterAtras: {r: 1, g: 1, b: 0, a: 0}
     - _GlitterColor: {r: 1, g: 1, b: 1, a: 1}
